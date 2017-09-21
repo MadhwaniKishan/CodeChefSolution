@@ -30,6 +30,5 @@ class LittleShefAndSums {
             }
             System.out.println(ans+1);
         }
-     }
-    
+     }  
 }
